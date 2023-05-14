@@ -1,5 +1,5 @@
 import { Card } from "react-bootstrap";
-import Carousel from 'react-bootstrap/Carousel';
+
 function Sol()
 {
  return(
