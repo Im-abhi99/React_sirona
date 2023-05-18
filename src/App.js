@@ -1,12 +1,12 @@
-import CollapsibleExample from "./Components/Navbar";
-import Carousal1 from "./Components/carousal"
-import Category from './Components/Cate';
-import Carousel2 from './Components/Carousel2';
-import Sol from './Components/solution';
-import Car from './Components/Card';
-import Spot from './Components/Spotlight';
-import About from './Components/About';
-import Contact from './Components/Contacts';
+import CollapsibleExample from "./Navbar";
+import Carousal1 from "./carousal"
+import Category from './Cate';
+import Carousel2 from './Carousel2';
+import Sol from './solution';
+import Car from './Card';
+import Spot from './Spotlight';
+import About from './About';
+import Contact from './Contacts';
 
  function App() {
   return (
